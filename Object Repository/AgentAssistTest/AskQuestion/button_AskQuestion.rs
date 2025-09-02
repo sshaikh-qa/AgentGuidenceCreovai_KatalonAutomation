@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AskQuestion</name>
+   <tag></tag>
+   <elementGuidId>0b4f5cb8-29b1-4093-bae6-5f9f811c46f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='fv202']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'fv202' and @ref_element = 'Object Repository/AgentAssist/iframe_Campaign_Inner']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fv202</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Ask Question&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fv202</value>
+      <webElementGuid>03618412-a46d-4bca-beb7-6f5eecb8f50d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>fv202</value>
+      <webElementGuid>889b002e-9570-440b-83dd-ad4e26baa0b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[normalize-space()='Ask Question']</value>
+      <webElementGuid>a9c1d3f8-59ef-475b-8c3c-860fc0aa56c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/AgentAssistTest/AgentAssist/iframe_Campaign_Inner</value>
+      <webElementGuid>35cf334e-6d7f-4c9d-a90f-cb931075d9a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//span[@id='csCon202']/button</value>
+      <webElementGuid>dd9089e0-9bda-4d57-be78-66f366855db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//button[@id = 'fv202' and @type = 'button' and @name = 'fv202' and (text() = '</value>
+      <webElementGuid>78b4f932-956d-468f-8424-39b2ccc66b6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

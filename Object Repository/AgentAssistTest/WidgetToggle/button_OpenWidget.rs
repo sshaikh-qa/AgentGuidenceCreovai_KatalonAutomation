@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OpenWidget</name>
+   <tag></tag>
+   <elementGuidId>38827c06-80d3-403c-a934-fa04cbf01c11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='fv208']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'fv208' and @ref_element = 'Object Repository/AgentAssist/iframe_Campaign_Inner']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fv208</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Open Widget&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fv208</value>
+      <webElementGuid>87c39752-9a6d-431a-9cf8-4c4ce1cdaca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>fv208</value>
+      <webElementGuid>b70cc2ec-f08b-455d-9989-3aba321c84c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[contains(text(),'Open Widget')]</value>
+      <webElementGuid>a573ec98-f7bb-4bb4-8480-6fe82ccd8eae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/AgentAssistTest/AgentAssist/iframe_Campaign_Inner</value>
+      <webElementGuid>178cd4b4-ae88-4455-a993-06d3f7d80adf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//button[@id='fv208']</value>
+      <webElementGuid>21cfd82f-c128-4063-a16d-f493519806c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//span[@id='csCon208']/button</value>
+      <webElementGuid>af17f406-e8d0-43a6-8332-6f3b6e8222fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//button[@id = 'fv208' and @type = 'button' and @name = 'fv208' and (text() = '</value>
+      <webElementGuid>6749740f-d34d-4f1e-8fdf-ef97f37db969</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

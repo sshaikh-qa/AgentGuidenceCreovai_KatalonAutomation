@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AddUtterances</name>
+   <tag></tag>
+   <elementGuidId>fe61601e-8f47-478a-923f-07d695a7fad6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='fv211']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[normalize-space()='Add Utterances']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fv211</value>
+      <webElementGuid>de9e2ddb-119f-4e37-81b5-3b7440f6958a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>fv211</value>
+      <webElementGuid>ce00947c-12bb-4850-9de3-37c9b849c3d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[normalize-space()='Add Utterances']</value>
+      <webElementGuid>1f1ecfd4-9f5e-4ddf-8761-c16dda6ec308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/AgentAssistTest/AgentAssist/iframe_Campaign_Inner</value>
+      <webElementGuid>ca8359cd-d02e-458d-93bf-e875e53016ef</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

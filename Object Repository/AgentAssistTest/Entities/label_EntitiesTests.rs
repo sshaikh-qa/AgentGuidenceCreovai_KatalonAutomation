@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_EntitiesTests</name>
+   <tag></tag>
+   <elementGuidId>c4d6e197-9200-4f72-bb44-0fc3c8c8c4f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'csCon192']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>csCon192</value>
+      <webElementGuid>d665c2bd-2393-42d7-a07d-6ce58123ba1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textlabel element-label</value>
+      <webElementGuid>5c561153-b199-44f0-917a-8e77f1509478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@id='csCon192']/p/span/strong</value>
+      <webElementGuid>76d8a6ea-35eb-44dd-89ba-9fb3c9d0e21e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

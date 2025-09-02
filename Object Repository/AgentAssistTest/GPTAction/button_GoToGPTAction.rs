@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_GoToGPTAction</name>
+   <tag></tag>
+   <elementGuidId>4c180f7f-f943-4aea-ad1b-d7594fb24d1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='fv182']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'fv182' and @ref_element = 'Object Repository/AgentAssist/iframe_Campaign_Inner']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fv182</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Go To GPT Action Tests&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fv182</value>
+      <webElementGuid>9318ed4f-5743-4265-b971-2312ae44dd8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>F182</value>
+      <webElementGuid>a1a9cc31-3999-493b-b07a-6dde2641cc37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@id='csCon182']</value>
+      <webElementGuid>1347a449-5274-4a38-8c2e-abde79e9f0d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/AgentAssistTest/AgentAssist/iframe_Campaign_Inner</value>
+      <webElementGuid>2f42359e-9341-42ad-8cf4-348d8e3ca869</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//button[@id='fv182']</value>
+      <webElementGuid>900fb46c-7206-4046-a378-55bed465087b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//span[@id='csCon182']/button</value>
+      <webElementGuid>c8ad9bbd-c463-489a-a750-74b8c53643f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//button[@id = 'fv182' and @type = 'button' and @name = 'F182' and (text() = '</value>
+      <webElementGuid>4da57a7e-ff95-41f9-a115-794c9423eeac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

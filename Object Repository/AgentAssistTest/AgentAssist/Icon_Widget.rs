@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Icon_Widget</name>
+   <tag></tag>
+   <elementGuidId>a566c003-7366-4c06-91a1-7c6a6b11954c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='copilot-Icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='copilot-Icon']</value>
+      <webElementGuid>b55fe928-f9c6-4bcd-b5a9-41408efaacc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>copilot-Icon</value>
+      <webElementGuid>d0636a07-9536-4126-a3a8-43b92a55f80e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

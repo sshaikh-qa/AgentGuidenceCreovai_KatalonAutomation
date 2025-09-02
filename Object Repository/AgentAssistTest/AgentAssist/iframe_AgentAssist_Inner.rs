@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_AgentAssist_Inner</name>
+   <tag></tag>
+   <elementGuidId>630086ec-1a34-4277-80b9-107198f4659a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//iframe[@src='/executer/campaignlist/']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//iframe[@src='/executer/campaignlist/']</value>
+      <webElementGuid>d024d12d-c8ad-45d2-a36a-9ec41e6ecd35</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

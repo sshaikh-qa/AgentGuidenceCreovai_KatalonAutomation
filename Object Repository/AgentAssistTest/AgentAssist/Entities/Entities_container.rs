@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Entities_container</name>
+   <tag></tag>
+   <elementGuidId>4041ece0-6176-4191-aec3-3dec993eda1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'panel-container')]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'panel-container')]/div</value>
+      <webElementGuid>f2c049c9-f9bf-4371-aa15-02daee7ac26d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

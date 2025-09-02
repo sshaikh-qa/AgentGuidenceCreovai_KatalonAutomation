@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Login with Invalid Username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>29e71bab-4e77-4330-b222-7120c9f49acc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e066b0b-177e-4785-a575-17e6db8960b8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e066b0b-177e-4785-a575-17e6db8960b8</id>
+      <masked>false</masked>
+      <name>invalidUsername</name>
+   </variable>
+</TestCaseEntity>

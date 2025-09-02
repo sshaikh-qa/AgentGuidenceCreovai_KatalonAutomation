@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Campaign_Inner</name>
+   <tag></tag>
+   <elementGuidId>386d14ca-d631-45f6-898e-b14964a915c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//iframe[@id='mainbody']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//iframe[@id='mainbody']</value>
+      <webElementGuid>743c3704-4bf9-47ed-b278-5bed1a22bd71</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

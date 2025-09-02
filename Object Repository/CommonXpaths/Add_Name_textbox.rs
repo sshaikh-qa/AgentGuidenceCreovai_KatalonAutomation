@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Add_Name_textbox</name>
+   <tag></tag>
+   <elementGuidId>07dce5f4-24e5-4127-a608-cbba378bc253</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='promptTB']&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[contains(@class,'CSFormTextBox')]//input[@type='text']</value>
+      <webElementGuid>911618f5-3bb0-452a-8420-8fd6d0cb66a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

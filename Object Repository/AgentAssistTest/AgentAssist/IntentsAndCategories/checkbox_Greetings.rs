@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_Greetings</name>
+   <tag></tag>
+   <elementGuidId>b6a077d7-a63d-4339-b3f8-e498e3f5cee5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[text()='Greetings']/parent::div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[text()='Greetings']/parent::div/div/input</value>
+      <webElementGuid>bcdf39cc-303c-4bfb-a92e-37a3591e8f39</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

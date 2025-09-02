@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>captial</name>
+   <tag></tag>
+   <elementGuidId>61328dcf-9343-4618-9726-92cbe665e55a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@title='Captial']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@title='Captial']</value>
+      <webElementGuid>38fe4aec-810e-4f52-8821-aaade1b32d3a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

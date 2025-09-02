@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MenuItem</name>
+   <tag></tag>
+   <elementGuidId>0165ce12-041a-43e9-a4e8-25447e4c430e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@title='${menuName}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[@title='${menuName}']/div[contains(@class,'CSMainListIcon')]</value>
+      <webElementGuid>cb79484e-03c5-4288-a62b-d5e722ae5d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[contains(@class,'fa-sitemap') and contains(@class,'CSMainListIcon')]</value>
+      <webElementGuid>284a6456-75b8-4aa5-9316-e2f4c04f4572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[@title='${menuName}']//div[contains(@class,'fa-sitemap')]</value>
+      <webElementGuid>e034b467-2cc2-4a08-9497-b9922b081d23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_NotifyTests</name>
+   <tag></tag>
+   <elementGuidId>8856f74c-1ddc-4ad7-9305-a8eb80e56012</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'csCon173']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textlabel element-label</value>
+      <webElementGuid>c57f32d5-9cd2-4baf-8ddd-e7765dca86f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@id='csCon173']/p/span/strong</value>
+      <webElementGuid>ec081433-de03-4658-aafb-6d271f9b3d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>csCon173</value>
+      <webElementGuid>1c8de6a3-4685-4afb-9f23-c3a03812e297</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

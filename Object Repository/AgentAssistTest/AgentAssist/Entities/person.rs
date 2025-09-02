@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>person</name>
+   <tag></tag>
+   <elementGuidId>0453c328-aa2a-4aa2-b28a-0a95a7dcf013</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-type='person']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-type='person']</value>
+      <webElementGuid>2a98ccd7-ceea-4fda-8886-b2eb3301a81c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Entities_Icon</name>
+   <tag></tag>
+   <elementGuidId>3425ad29-60de-4a2e-b474-49083e0f4e39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title='Entities']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title='Entities']/i</value>
+      <webElementGuid>7d89d81d-baa9-42f7-a5ca-33d0a3bc77a9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

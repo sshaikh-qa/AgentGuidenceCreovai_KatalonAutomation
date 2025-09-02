@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>IntentsandCategories_container</name>
+   <tag></tag>
+   <elementGuidId>74fb1218-dd0c-41f6-a383-31291b95a098</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'panel-container')]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'panel-container')]/div</value>
+      <webElementGuid>4af4d3ae-59d0-406c-91b5-1095589e17d4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AI_Icon</name>
+   <tag></tag>
+   <elementGuidId>2b113f7f-b883-47cc-98be-d0ebe02e7d56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title='AI']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title='AI']/i</value>
+      <webElementGuid>d69ccd6f-84fb-4305-84fd-b5130d6d2c0a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

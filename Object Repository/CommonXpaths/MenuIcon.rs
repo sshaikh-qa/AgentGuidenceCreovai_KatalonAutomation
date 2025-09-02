@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MenuIcon</name>
+   <tag></tag>
+   <elementGuidId>c79b451d-fac0-4fff-af63-785dbcca1586</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@title='Menu']//div[contains(@class,'fa-bars')]&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[@id='mainmenu_menuBtn']//div[contains(@class,'fa-bars')]</value>
+      <webElementGuid>fdb3ee0a-3c37-45ea-a5ff-926ed87936c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[contains(@class,'fa-bars') and contains(@class,'fa')]</value>
+      <webElementGuid>99608996-86d8-406a-b702-c83c1c65be65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

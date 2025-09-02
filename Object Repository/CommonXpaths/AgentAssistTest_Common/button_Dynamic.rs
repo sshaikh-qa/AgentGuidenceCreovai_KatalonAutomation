@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Dynamic</name>
+   <tag></tag>
+   <elementGuidId>b684482c-207d-418b-a4da-d3f089f844ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*/button[text()='${Name}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*/button[text()='${Name}']</value>
+      <webElementGuid>38e39929-a8cb-400b-b640-2242a7faf898</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

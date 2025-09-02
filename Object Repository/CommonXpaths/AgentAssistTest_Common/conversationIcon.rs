@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>conversationIcon</name>
+   <tag></tag>
+   <elementGuidId>7fefca34-c985-42ba-98a5-203a385fc6d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title='Conversation']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title='Conversation']/i</value>
+      <webElementGuid>b692aefa-b94e-4dcc-8cc2-917a3a899474</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

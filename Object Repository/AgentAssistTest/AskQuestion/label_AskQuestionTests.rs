@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_AskQuestionTests</name>
+   <tag></tag>
+   <elementGuidId>563cd10f-c317-4163-a703-9075335660e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'csCon201']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>csCon201</value>
+      <webElementGuid>24d15f68-8971-4282-804d-770efdb0fd0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textlabel element-label</value>
+      <webElementGuid>37fb50c1-8fd9-4c97-82b2-9a15dce51e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@id='csCon201']/p/strong</value>
+      <webElementGuid>2b7e70f3-be5e-4d8e-8f4f-e66f47bda71d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

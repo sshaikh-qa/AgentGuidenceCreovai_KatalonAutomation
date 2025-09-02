@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_CategoryTests</name>
+   <tag></tag>
+   <elementGuidId>0ace2e0d-578a-4219-9111-df2904daf540</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'csCon159']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#csCon159</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>csCon159</value>
+      <webElementGuid>6db483c9-ed49-4c62-85e9-5913cd195b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textlabel element-label</value>
+      <webElementGuid>b17b6a2a-3884-48cd-8b33-4f92b369d702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@id='csCon159']/p/span/strong</value>
+      <webElementGuid>f1c7d6ad-206e-4648-9d4b-073c60a6cd22</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

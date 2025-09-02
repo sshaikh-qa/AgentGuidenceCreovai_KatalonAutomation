@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AddNewPlusIcon_dynamic</name>
+   <tag></tag>
+   <elementGuidId>a5e71997-91f3-4484-869a-9328a69e6d52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@title='${addName}']//div[contains(@class,'fa-plus')]&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[@id='tbi___addScriptBtn']//div[contains(@class,'fa-plus')]</value>
+      <webElementGuid>eec99c6e-4454-4932-8eaa-fdfe2ba164bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[(@id='tbi___addScriptBtn' or @title='Add workflow')]//div[contains(@class,'fa-plus')]</value>
+      <webElementGuid>05dc4f48-e364-4cf0-b616-188030d9b2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[@title='Add workflow' and contains(@class,'CSToolbarItem')]/div[contains(@class,'fa-plus')]</value>
+      <webElementGuid>0ebc64b3-a067-46a4-924f-1299fb11d50e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_label</name>
+   <tag></tag>
+   <elementGuidId>645ec030-bd73-48d7-a75d-198fd7fffcbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'panel-container')]/div//label[contains(@class,'checkbox-label')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'panel-container')]/div//label[@class='checkbox-label']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'panel-container')]/div//label[@class='checkbox-label']</value>
+      <webElementGuid>e74aeeaa-b165-4701-842f-c0d9bc70f46c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

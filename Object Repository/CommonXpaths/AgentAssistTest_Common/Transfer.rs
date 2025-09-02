@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Transfer</name>
+   <tag></tag>
+   <elementGuidId>86aadd61-cfa2-4834-ba15-6fe3339f46c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'Transfer']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Transfer</value>
+      <webElementGuid>8cb039b8-4f34-424a-8ca8-d18c98052c29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tbi___transfer</value>
+      <webElementGuid>d56ec036-2e34-4a45-b679-2c18df2ea890</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

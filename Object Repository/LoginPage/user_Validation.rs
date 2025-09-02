@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>user_Validation</name>
+   <tag></tag>
+   <elementGuidId>478cb108-2eb8-4695-8f19-0fe970d663f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-cs-toolbar-name='bottom']/..//span[normalize-space()='${Name}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-cs-toolbar-name='bottom']/..//span[normalize-space()='${Name}']</value>
+      <webElementGuid>14cf5e0a-9bbd-4821-985d-30bc1c9957f4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
